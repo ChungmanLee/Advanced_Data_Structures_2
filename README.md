@@ -9,3 +9,5 @@
  ## How to Run
  1. Download the Source Code.
  2. Open the project in eclipse and simply run the file "Main.java"
+ ## Report
+ Open "Report_AVL_Tree.pdf"
