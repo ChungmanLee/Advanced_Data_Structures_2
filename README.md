@@ -1,5 +1,6 @@
 # COMP47500 – Advanced Data Structures in Java
 # Project No: 2
+# Leveraging AVL Tree to manage Contact details in Contact Management System
 
 ## Group Details
 	2320077  - Prakash Jha
